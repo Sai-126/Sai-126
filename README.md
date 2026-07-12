@@ -156,25 +156,6 @@ Aditya Engineering College
 
 ---
 
-# 📜 Certifications
-
-- Oracle Certified Java
-- International DSA for DeepTech Bootcamp
-- Deloitte Data Analytics
-- Claude with Google Vertex AI – Anthropic
-
----
-
-# 🌱 Currently Exploring
-
-- Agentic AI
-- Advanced RAG Systems
-- Large Language Models (LLMs)
-- AI Agents
-- Cloud Deployment
-- System Design
-
----
 
 # 📫 Connect With Me
 
