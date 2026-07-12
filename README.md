@@ -21,13 +21,11 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 - Agentic AI
 - NLP
 - Full Stack Development
-- Backend System Design
+- Data Science
 
 I enjoy transforming ideas into practical AI solutions that are scalable, efficient, and impactful.
 
 ---
-
-# 💻 Tech Stack
 
 # 💻 Tech Stack
 
