@@ -29,57 +29,31 @@ I enjoy transforming ideas into practical AI solutions that are scalable, effici
 
 # 💻 Tech Stack
 
+# 💻 Tech Stack
+
 ### Programming Languages
 
-- Python
-- Java
-- C
-- HTML
-- CSS
-- JavaScript
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
+</p>
 
 ### AI & Machine Learning
 
-- LangChain
-- Gemini 2.5 Flash
-- LLaMA
-- FAISS
-- ChromaDB
-- Sentence Transformers
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- TF-IDF
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
 ### Frontend & Backend
 
-- React
-- React Native
-- FastAPI
-- Streamlit
-- Tailwind CSS
-- REST APIs
-- JWT Authentication
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi" />
+</p>
 
-### Databases
+### Databases & Tools
 
-- MySQL
-- SQLite
-- ChromaDB
-- FAISS
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Power BI
-- Excel
-
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
+</p>
 
 # 💼 Experience
 
