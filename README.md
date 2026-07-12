@@ -1,106 +1,187 @@
-<!-- ========================= HEADER ========================= -->
-
-<h1 align="center">
-  Hi 👋, I'm Sai Laxmi Pasagadugula
-</h1>
+<h1 align="center">Hi 👋, I'm Sai Laxmi Pasagadugula</h1>
 
 <h3 align="center">
 AI & Data Science Enthusiast | Full Stack Developer | Building Intelligent Solutions with AI, ML & LLMs
 </h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Full+Stack+Developer;Building+LLM+%26+RAG+Applications;FastAPI+%7C+React+%7C+Python;Always+Learning+New+Technologies" />
-  </a>
-</p>
+---
+
+# 👩 About Me
+
+I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development. I enjoy building intelligent applications that solve real-world problems using modern AI technologies, scalable backend systems, and user-friendly interfaces.
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sai-126&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+# 🚀 Interests
 
-<img src="https://img.shields.io/github/followers/Sai-126?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Sai-126?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development.
-
-🤖 I enjoy building AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI.
-
-💡 I love solving real-world problems through scalable software and intelligent automation.
-
-🌱 Currently exploring
-
-- Agentic AI
-- Advanced RAG Systems
-- LLM Applications
-- Cloud Deployment
-- System Design
-
-💬 Ask me about
-
-- Python
-- Java
+- Artificial Intelligence
 - Machine Learning
+- Generative AI & LLMs
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
 - NLP
-- LangChain
-- FastAPI
-- React
-- FAISS
-- ChromaDB
+- Full Stack Development
+- Backend System Design
 
-⚡ Fun Fact
-
-> I enjoy transforming ideas into intelligent AI applications that create real-world impact.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_GMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sai-126">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+I enjoy transforming ideas into practical AI solutions that are scalable, efficient, and impactful.
 
 ---
 
 # 💻 Tech Stack
 
-Coming Soon...
+### Programming Languages
+
+- Python
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+
+### AI & Machine Learning
+
+- LangChain
+- Gemini 2.5 Flash
+- LLaMA
+- FAISS
+- ChromaDB
+- Sentence Transformers
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- TF-IDF
+
+### Frontend & Backend
+
+- React
+- React Native
+- FastAPI
+- Streamlit
+- Tailwind CSS
+- REST APIs
+- JWT Authentication
+
+### Databases
+
+- MySQL
+- SQLite
+- ChromaDB
+- FAISS
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Power BI
+- Excel
+
+---
+
+# 💼 Experience
+
+## Software Engineering Intern — RINL (Visakhapatnam Steel Plant)
+
+**May 2025 – June 2025**
+
+- Built a real-time Delay Monitoring System.
+- Developed RESTful APIs using FastAPI and MySQL.
+- Designed dashboards for operational monitoring.
+- Optimized SQL queries and automated reporting workflows.
+- Collaborated with cross-functional teams to improve system efficiency.
 
 ---
 
 # 🚀 Featured Projects
 
-Coming Soon...
+## 🩺 MediAssist – AI Healthcare Assistant
+
+**LangChain • Gemini • FAISS • Streamlit • OCR**
+
+- Built an Agentic AI healthcare assistant for rural patients.
+- Implemented RAG with FAISS for intelligent medical retrieval.
+- Added OCR-based prescription analysis.
+- Supports Telugu and English conversations.
+
+Repository:
+> https://github.com/Sai-126/mediassist *(update with your repo)*
 
 ---
 
-# 📊 GitHub Analytics
+## 🧠 SANKET
 
-Coming Soon...
+**FastAPI • React • MediaPipe • Faster Whisper**
+
+- AI-powered investigative interview analysis system.
+- Integrated speech transcription and facial behaviour analysis.
+- Developed ethical AI output with audit logging.
+
+Repository:
+> https://github.com/Sai-126 *(update with your repo)*
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 💬 Hate Speech Detection
+
+**Python • NLP • Machine Learning**
+
+- Built an NLP pipeline using TF-IDF and Word Embeddings.
+- Compared Logistic Regression, SVM, and Naive Bayes models.
+- Improved minority-class recall using SMOTE.
+
+Repository:
+> https://github.com/Sai-126 *(update with your repo)*
+
+---
+
+# 🏆 Achievements
+
+- 🌟 SheFi Scholar – Season 16
+- 🌟 Selected for Infosys Springboard Virtual Internship 7.0
+
+---
+
+# 🎓 Education
+
+**B.Tech – Data Science**
+
+Aditya Engineering College
+
+**2023 – 2027**
+
+**CGPA:** 8.33
+
+---
+
+# 📜 Certifications
+
+- Oracle Certified Java
+- International DSA for DeepTech Bootcamp
+- Deloitte Data Analytics
+- Claude with Google Vertex AI – Anthropic
+
+---
+
+# 🌱 Currently Exploring
+
+- Agentic AI
+- Advanced RAG Systems
+- Large Language Models (LLMs)
+- AI Agents
+- Cloud Deployment
+- System Design
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: **p.sailaxmi20051206@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/sailaxmipasagadugula/
+- 💻 GitHub: https://github.com/Sai-126
+
+---
+
+⭐ *"Building intelligent solutions that create meaningful real-world impact through Artificial Intelligence and modern software development."*
