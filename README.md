@@ -107,7 +107,7 @@ I enjoy transforming ideas into practical AI solutions that are scalable, effici
 - Supports Telugu and English conversations.
 
 Repository:
-> https://github.com/Sai-126/mediassist *(update with your repo)*
+> https://github.com/Sai-126/mediassist 
 
 ---
 
@@ -120,7 +120,7 @@ Repository:
 - Developed ethical AI output with audit logging.
 
 Repository:
-> [https://github.com/Sai-126 *(update with your repo)*](https://github.com/Sai-126/SANKET)
+> (https://github.com/Sai-126/SANKET) 
 
 ---
 
