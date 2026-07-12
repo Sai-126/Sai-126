@@ -120,7 +120,7 @@ Repository:
 - Developed ethical AI output with audit logging.
 
 Repository:
-> (https://github.com/Sai-126/SANKET) 
+> https://github.com/Sai-126/SANKET
 
 ---
 
