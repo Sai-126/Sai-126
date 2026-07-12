@@ -110,7 +110,7 @@ Repository:
 - Improved minority-class recall using SMOTE.
 
 Repository:
-> https://github.com/Sai-126 *(update with your repo)*
+> https://github.com/Sai-126/Hate_Speech_Detection
 
 ---
 
