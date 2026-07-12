@@ -55,6 +55,11 @@ I enjoy transforming ideas into practical AI solutions that are scalable, effici
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" />
 </p>
 
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+
 # 💼 Experience
 
 ## Software Engineering Intern — RINL (Visakhapatnam Steel Plant)
