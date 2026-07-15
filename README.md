@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Laxmi Pasagadugula</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Coding GIF"/>
-</p>
-
 <h3 align="center">
 AI & Data Science Enthusiast | Full Stack Developer | Building Intelligent Solutions with AI, ML & LLMs
 </h3>
