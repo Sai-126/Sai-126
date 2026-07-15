@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Laxmi Pasagadugula</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Coding GIF"/>
 </p>
 
 <h3 align="center">
