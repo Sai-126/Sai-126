@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Laxmi Pasagadugula</h1>
 
+<p align="center">
+<img width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</p>
+
 <h3 align="center">
 AI & Data Science Enthusiast | Full Stack Developer | Building Intelligent Solutions with AI, ML & LLMs
 </h3>
